@@ -1,0 +1,16 @@
+.projects-contanier{
+   display: flex;
+   justify-content: space-between;
+    padding: 20px;
+}
+
+.intern{
+    flex-basis: 30%;
+    text-align: center; 
+    background-color: rgb(15, 163, 163);
+    border-radius: 20px;
+
+}
+.intern img{
+    border-radius: 40px;
+}
